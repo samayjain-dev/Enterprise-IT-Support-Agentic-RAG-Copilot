@@ -19,3 +19,6 @@ groq
 pypdf==6.16.2
 python-docx==1.2.0
 python-dotenv==1.1.1
+huggingface_hub
+langchain_huggingface
+sentence-transformers
